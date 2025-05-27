@@ -1,6 +1,6 @@
-## Hey There!
+## Hey there!
 
-🦄 I'm Jia Qi, a **penultimate Computer Science undergraduate** at Nanyang Technological University with a strong passion for building meaningful technology solutions. My expertise lies in **full-stack development**, **data analytics** and **artificial intelligence**, areas where I thrive on solving complex problems and creating user-centered applications. 
+🦄 I'm Jia Qi, a **final year Computer Science undergraduate** at Nanyang Technological University with a strong passion for building meaningful technology solutions. My expertise lies in **full-stack development**, **data analytics** and **artificial intelligence**, areas where I thrive on solving complex problems and creating user-centered applications. 
 
 🐾 My journey began with a **Diploma in AI and Analytics**, where I developed a fascination for how computing and AI can transform industries and improve lives. Over the years, I have worked on projects that include web development, machine learning models, and data visualization, honing both my technical and problem-solving skills. 
 
